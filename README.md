@@ -20,4 +20,4 @@
 ## Установка и использование
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/ios-calculator-csharp.git
+git clone https://github.com/ActBotArt/iPhone-Calculator-C-Sharp.git
