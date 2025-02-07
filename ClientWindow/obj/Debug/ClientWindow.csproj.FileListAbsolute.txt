@@ -30,3 +30,19 @@ C:\Users\Артём\OneDrive\Мой рабочий стол\Калькулято
 C:\Users\Артём\OneDrive\Мой рабочий стол\Калькулятор С#\ClientWindow\obj\Debug\ClientWindow.csproj.CoreCompileInputs.cache
 C:\Users\Артём\OneDrive\Мой рабочий стол\Калькулятор С#\ClientWindow\obj\Debug\ClientWindow.exe
 C:\Users\Артём\OneDrive\Мой рабочий стол\Калькулятор С#\ClientWindow\obj\Debug\ClientWindow.pdb
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\bin\Debug\ClientWindow.exe.config
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\bin\Debug\ClientWindow.exe
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\bin\Debug\ClientWindow.pdb
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\ClientWindow.csproj.AssemblyReference.cache
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\App.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\ClientWindow_MarkupCompile.cache
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\ClientWindow_MarkupCompile.lref
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\App.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\MainWindow.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\ClientWindow.g.resources
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\ClientWindow.Properties.Resources.resources
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\ClientWindow.csproj.GenerateResource.cache
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\ClientWindow.csproj.CoreCompileInputs.cache
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\ClientWindow.exe
+C:\Users\Артём\OneDrive\Мой рабочий стол\iPhone-Calculator-C-Sharp\ClientWindow\obj\Debug\ClientWindow.pdb
