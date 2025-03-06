@@ -2,8 +2,9 @@
 
 Простой калькулятор с интерфейсом, имитирующим стандартное приложение "Калькулятор" на iOS, написанный на C#.
 
-![Пример интерфейса](https://github.com/user-attachments/assets/17d7b9fa-d8f5-4a78-9524-4de73f7a4635)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/17d7b9fa-d8f5-4a78-9524-4de73f7a4635" alt="photo_1" width="50%">
+</div>
 
 ## Особенности
 - Стандартные арифметические операции (+, -, ×, ÷)
